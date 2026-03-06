@@ -106,4 +106,4 @@ By the end of the weekend, these projects may still look simple, but they will n
 
 The event will happen if there is enough interest.
 
-If you are interested, feel free to open an issue or star the repository.
+If you are interested, follow the organization to stay updated.
